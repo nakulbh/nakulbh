@@ -3,7 +3,7 @@
 <h3 align="center">My name is Nakul, and I am a Computer science Student. I have decent experience working with Kubernetes and related cloud technologies. I love technology, and I'm interested in communities. I'm always up for working with others on new initiatives and concepts.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif">
 
-- 🌱 I’m currently learning **Devops related tools, kuber**
+- 🌱 I’m currently learning Devops related tools, Kubernetes, docker, Jenkins etc
 
 - 📫 How to reach me **nakulbhardwaj37@gmail.com**
 
