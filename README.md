@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nakul Bhardwaj</h1>
 <h3 align="center">My name is Nakul, and I am a Computer science Student. I have decent experience working with Kubernetes and related cloud technologies. I love technology, and I'm interested in communities. I'm always up for working with others on new initiatives and concepts.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/091/575/a0b.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif">
 
 - 🌱 I’m currently learning Devops related tools, Kubernetes, docker, Jenkins etc
 
