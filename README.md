@@ -1,8 +1,8 @@
-<p align = "center">
+<p align = "left">
 <img src = "https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width = 30% height = 30%/>
 </p> 
    
-<h3 align="center">  
+<h3 align="left">  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakul Bhardwaj's profile  
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  -->
 </h3>  
