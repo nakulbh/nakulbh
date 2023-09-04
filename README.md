@@ -1,5 +1,5 @@
 <p align = "left">
-<img src = "https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width = "500" height = "500"/>
+<img src = "https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" width = "400" height = "400"/>
 </p> 
    
 <h3 align="left">  
