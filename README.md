@@ -1,17 +1,18 @@
 <p align = "center">
-<img src = "https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" width = 100%/>
+<img src = "https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" width = 30% height = 30%/>
 </p> 
    
 <h3 align="center">  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakul Bhardwaj's profile  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
+ <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  -->
 </h3>  
 
-## Who am I?  
+<!-- ## Who am I?  
 
 - 🥑 DevOps and Open Source enthusiast 
 - 
 - 
+-->
 
 
 <p align="left">
@@ -26,15 +27,13 @@
   </a>
    
 </p>
- 
-## Latest Blog Posts 👇:
-  
-<!-- BLOGPOSTS:START -->
- - 💫 []()
- - 💯 []()
- - 💯 []()
- - 🚀 []()
- - 💫 []()<!-- BLOGPOSTS:END -->
+<!-- ## Latest Blog Posts 👇:
+    - 💫 []()
+    - 💯 []()
+    - 💯 []()
+    - 🚀 []()
+    - 💫 []()  -->
+
 
 <h2> :toolbox: ToolBox</h2>
 
