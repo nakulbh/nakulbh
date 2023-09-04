@@ -1,5 +1,5 @@
 <p align = "center">
-<img src = "https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" width = 30% height = 30%/>
+<img src = "https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width = 30% height = 30%/>
 </p> 
    
 <h3 align="center">  
