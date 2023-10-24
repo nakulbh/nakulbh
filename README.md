@@ -47,6 +47,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,githubactions,go,java,bash,graphql,mongodb,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,go,java,bash,vim,github,mysql,postgres,postman " />
   </a>
 </p>
