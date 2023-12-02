@@ -2,10 +2,10 @@
    <img src = "https://media.giphy.com/media/RCSUqPv9w9Iek/giphy.gif" width = "300" height = "300"/>
 </p> 
    
-<h3 align="left">  
+<!-- <h3 align="left">  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakul Bhardwaj's profile  
- <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  -->
-</h3>  
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>  -->
 
 <!-- ## Who am I?  
 
