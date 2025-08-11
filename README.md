@@ -34,6 +34,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,go,java,bash,vim,github,mysql,postgres,postman,aws,gcp,python,tensorflow,pytorch,fastapi,flask,django,redis,mongodb" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,go,python,typescript,bash,vim,github,mysql,postgres,postman,aws,gcp,tensorflow,pytorch,fastapi,flask,django,redis,mongodb,rabbitmq,sklearn&perline=10" />
   </a>
 </p>
