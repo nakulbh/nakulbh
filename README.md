@@ -40,5 +40,8 @@
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+```md
+<!--START_SECTION:SHOW_LANGUAGE_PER_REPO-->
+<!--END_SECTION:SHOW_LANGUAGE_PER_REPO-->
+```
