@@ -46,9 +46,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 876.1 kB Used in GitHub's Storage 
+> 📦 876.2 kB Used in GitHub's Storage 
  > 
-> 🏆 276 Contributions in the Year 2026
+> 🏆 287 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,57 +56,6 @@
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                657 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-🌆 Daytime                824 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-🌃 Evening                761 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-🌙 Night                  1041 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Tuesday                  392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Wednesday                460 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Thursday                 473 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Friday                   570 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Saturday                 697 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Sunday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    18 hrs 41 mins      ████████████████████░░░░░   79.71 % 
-Python                   3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Rust                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-🔥 Editors: 
-cmux                     15 hrs 19 mins      ████████████████░░░░░░░░░   65.33 % 
-Claude Code              4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Discord                  2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Zed                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🐱‍💻 Projects: 
-functions3.rs            9 hrs 51 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
-mod.rs                   7 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-do-monitoring-ops        4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-functions2.rs            1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-bhav-rust                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-
-💻 Operating System: 
-Mac                      23 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -124,6 +73,6 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nakulbh/nakulbh/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:59:03 UTC
+ Last Updated on 24/07/2026 19:58:26 UTC
 <!--END_SECTION:waka-->
 
