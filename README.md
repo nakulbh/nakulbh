@@ -44,8 +44,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2040%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -111,30 +109,6 @@ rmux                     4 mins              ░░░░░░░░░░░�
 Mac                      25 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 1 min (42.43%)
-
-✍️ 5,906 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 103,598,917 Input Tokens, 293,767 Output Tokens
-
-💵 $331.78 Estimated AI Cost This Week
-
-🧠 23 AI Sessions, 256 AI Prompts
-
-Sonnet                   4,378 lines         ██████████████████░░░░░░░   72.94 % 
-Opus                     1,624 lines         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 343 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
